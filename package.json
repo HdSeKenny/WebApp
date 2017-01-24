@@ -1,0 +1,20 @@
+{
+  "name": "webapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Za1za1/WebApp.git"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "Kenny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Za1za1/WebApp/issues"
+  },
+  "homepage": "https://github.com/Za1za1/WebApp#readme"
+}
